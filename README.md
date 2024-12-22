@@ -1,5 +1,5 @@
 # Ada-Mata-Test Trash Recognition
-The model functions to recognize Waste which was trained using more than 2500 images of vegetables and fruits divided into 78 classes<br>
+The model functions to recognize Waste which was trained using more than 2500 images of waste divided into 6 classes<br>
 
 # Tools
 
